@@ -1,0 +1,12 @@
+{
+  "best_model": "LinearSVC_C0.5",
+  "params": {
+    "C": 0.5,
+    "max_iter": 5000,
+    "random_state": 42
+  },
+  "valid_accuracy": 0.8473541383989145,
+  "valid_macro_f1": 0.8470856672539501,
+  "train_accuracy": 0.9876145232439769,
+  "train_macro_f1": 0.9876323552172505
+}

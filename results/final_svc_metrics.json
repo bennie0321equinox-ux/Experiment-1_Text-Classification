@@ -1,0 +1,19 @@
+{
+  "model": "LinearSVC word plus character TF-IDF",
+  "parameters": {
+    "C": 1.0,
+    "max_iter": 12000,
+    "random_state": 42,
+    "word_max_features": 80000,
+    "char_max_features": 150000,
+    "char_ngram_range": [
+      3,
+      5
+    ],
+    "char_weight": 0.25
+  },
+  "valid_accuracy": 0.8948439620081411,
+  "valid_macro_f1": 0.895023216770858,
+  "train_accuracy": 0.9977943671530369,
+  "train_macro_f1": 0.9978031276182074
+}

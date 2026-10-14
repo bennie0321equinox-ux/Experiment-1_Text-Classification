@@ -1,0 +1,21 @@
+{
+  "model": "LinearSVC",
+  "parameters": {
+    "C": 1.0,
+    "max_iter": 5000,
+    "random_state": 42
+  },
+  "train_accuracy": 0.995419070240923,
+  "valid_accuracy": 0.8351424694708277,
+  "train_macro_f1": 0.9954312569558208,
+  "valid_macro_f1": 0.8348416579487121,
+  "fit_seconds": 0.11147720900771674,
+  "train_shape": [
+    5894,
+    5000
+  ],
+  "valid_shape": [
+    1474,
+    5000
+  ]
+}

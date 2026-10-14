@@ -1,0 +1,136 @@
+{
+  "vectorizer": {
+    "max_features": 5000,
+    "min_df": 2,
+    "max_df": 0.95,
+    "sublinear_tf": true,
+    "lowercase": false,
+    "fit_on": "train_split_clean.csv"
+  },
+  "train_shape": [
+    5894,
+    5000
+  ],
+  "valid_shape": [
+    1474,
+    5000
+  ],
+  "test_shape": [
+    2457,
+    5000
+  ],
+  "train_nonzero": 279043,
+  "valid_nonzero": 71018,
+  "test_nonzero": 117693,
+  "train_sparsity": 0.9905312860536138,
+  "valid_sparsity": 0.990363907734057,
+  "test_sparsity": 0.9904197802197802,
+  "highest_idf_features": [
+    {
+      "feature": "agrep",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "ajw",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "booklet",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "cesarean",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "cfg",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "cols",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "grounding",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "gurvitz",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "gyx",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "interleave",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "jur",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "jvw",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "mamma",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "mmq",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "mmw",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "mum",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "prong",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "pts",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "rchz",
+      "idf": 8.583247524303362
+    },
+    {
+      "feature": "rmc",
+      "idf": 8.583247524303362
+    }
+  ],
+  "target_counts": {
+    "train": {
+      "0": 584,
+      "1": 591,
+      "2": 590,
+      "3": 594,
+      "4": 597,
+      "5": 596,
+      "6": 594,
+      "7": 590,
+      "8": 594,
+      "9": 564
+    },
+    "valid": {
+      "0": 146,
+      "1": 148,
+      "2": 147,
+      "3": 148,
+      "4": 150,
+      "5": 149,
+      "6": 149,
+      "7": 148,
+      "8": 148,
+      "9": 141
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "model": "LinearSVC",
+  "baseline_type": "initial_before_optimization",
+  "params": {
+    "C": 0.5,
+    "max_iter": 5000,
+    "random_state": 42
+  },
+  "feature": {
+    "max_features": 5000,
+    "min_df": 2,
+    "max_df": 0.95,
+    "sublinear_tf": true,
+    "lowercase": false,
+    "ngram_range": [
+      1,
+      1
+    ]
+  },
+  "train_accuracy": 0.9876145232439769,
+  "valid_accuracy": 0.8473541383989145,
+  "train_macro_f1": 0.9876323552172505,
+  "valid_macro_f1": 0.8470856672539501,
+  "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.81      0.81       146\n           1       0.77      0.82      0.79       148\n           2       0.75      0.72      0.73       147\n           3       0.92      0.82      0.86       148\n           4       0.89      0.93      0.91       150\n           5       0.90      0.95      0.93       149\n           6       0.90      0.88      0.89       149\n           7       0.76      0.76      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+}

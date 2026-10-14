@@ -1,0 +1,24 @@
+{
+  "model": "MLPClassifier",
+  "parameters": {
+    "hidden_layer_sizes": [
+      100
+    ],
+    "activation": "relu",
+    "solver": "adam",
+    "alpha": 0.001,
+    "learning_rate_init": 0.001,
+    "epochs": 40,
+    "random_state": 42
+  },
+  "feature_source": "train_tfidf.npz / valid_tfidf.npz (5000-dimensional word TF-IDF)",
+  "epochs_run": 40,
+  "best_epoch_by_valid_loss": 21,
+  "final_train_loss": 0.02902537164597753,
+  "final_valid_loss": 0.4931859516000104,
+  "best_valid_loss": 0.4686464124821249,
+  "train_accuracy": 0.998133695283339,
+  "train_macro_f1": 0.9981434984388615,
+  "valid_accuracy": 0.8439620081411127,
+  "valid_macro_f1": 0.8441693369078946
+}

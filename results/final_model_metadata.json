@@ -1,0 +1,40 @@
+{
+  "purpose": "final test-set prediction after validation-based model selection",
+  "train_rows": 7368,
+  "test_rows": 2457,
+  "word_tfidf": {
+    "max_features": 80000,
+    "min_df": 1,
+    "max_df": 0.95,
+    "sublinear_tf": true,
+    "lowercase": false,
+    "strip_accents": "unicode",
+    "ngram_range": [
+      1,
+      1
+    ]
+  },
+  "char_tfidf": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      3,
+      5
+    ],
+    "min_df": 2,
+    "max_features": 150000,
+    "sublinear_tf": true,
+    "lowercase": false,
+    "strip_accents": "unicode"
+  },
+  "char_feature_weight": 0.25,
+  "linear_svc": {
+    "C": 1.0,
+    "max_iter": 12000,
+    "random_state": 42
+  },
+  "validation_result_used_for_selection": {
+    "accuracy": 0.8948439620081411,
+    "macro_f1": 0.895023216770858
+  },
+  "output_format": "one predicted label per row; no header"
+}

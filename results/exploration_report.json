@@ -1,0 +1,36 @@
+{
+  "train_rows": 7368,
+  "test_rows": 2457,
+  "train_columns": [
+    "text",
+    "target"
+  ],
+  "test_columns": [
+    "text"
+  ],
+  "missing_values": {
+    "text": 0,
+    "target": 0
+  },
+  "duplicate_train_text": 0,
+  "label_distribution": {
+    "0": 730,
+    "1": 739,
+    "2": 737,
+    "3": 742,
+    "4": 747,
+    "5": 745,
+    "6": 743,
+    "7": 738,
+    "8": 742,
+    "9": 705
+  },
+  "text_length": {
+    "min": 125,
+    "median": 1139.0,
+    "mean": 1855.0048859934852,
+    "max": 160616
+  },
+  "random_state": 42,
+  "validation_size": 0.2
+}

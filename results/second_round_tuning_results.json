@@ -1,0 +1,2524 @@
+{
+  "ranked_results": [
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9945707499151679,
+      "valid_accuracy": 0.8724559023066486,
+      "train_macro_f1": 0.9945810681363725,
+      "valid_macro_f1": 0.8725265047698436,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.82       146\n           1       0.76      0.83      0.80       148\n           2       0.77      0.77      0.77       147\n           3       0.91      0.88      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.82      0.76      0.79       148\n           8       0.90      0.90      0.90       148\n           9       0.97      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.994401085850017,
+      "valid_accuracy": 0.8724559023066486,
+      "train_macro_f1": 0.9944158726944174,
+      "valid_macro_f1": 0.8725229455243886,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.84      0.82       146\n           1       0.78      0.83      0.80       148\n           2       0.78      0.78      0.78       147\n           3       0.92      0.89      0.90       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.82      0.76      0.79       148\n           8       0.88      0.89      0.89       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8724559023066486,
+      "train_macro_f1": 0.9972948591154042,
+      "valid_macro_f1": 0.8723150347487711,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.84      0.83       146\n           1       0.78      0.84      0.81       148\n           2       0.77      0.79      0.78       147\n           3       0.91      0.88      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.81      0.74      0.78       148\n           8       0.89      0.89      0.89       148\n           9       0.95      0.94      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.988632507634883,
+      "valid_accuracy": 0.8717774762550882,
+      "train_macro_f1": 0.9886569408019582,
+      "valid_macro_f1": 0.8719392956562879,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.83      0.81       146\n           1       0.78      0.83      0.80       148\n           2       0.75      0.78      0.76       147\n           3       0.94      0.89      0.91       148\n           4       0.94      0.95      0.95       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.97      0.94      0.96       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.996437054631829,
+      "valid_accuracy": 0.8717774762550882,
+      "train_macro_f1": 0.9964460890801998,
+      "valid_macro_f1": 0.8717703248878408,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.82       146\n           1       0.77      0.83      0.80       148\n           2       0.78      0.78      0.78       147\n           3       0.91      0.88      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.81      0.76      0.78       148\n           8       0.90      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997624703087886,
+      "valid_accuracy": 0.8717774762550882,
+      "train_macro_f1": 0.9976327150640355,
+      "valid_macro_f1": 0.87164546363782,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.84      0.83       146\n           1       0.77      0.84      0.80       148\n           2       0.78      0.78      0.78       147\n           3       0.91      0.87      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.87      0.89       149\n           7       0.82      0.76      0.79       148\n           8       0.89      0.90      0.90       148\n           9       0.94      0.94      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9820156090939939,
+      "valid_accuracy": 0.8710990502035278,
+      "train_macro_f1": 0.982046375014708,
+      "valid_macro_f1": 0.8710846420985738,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.80       146\n           1       0.77      0.83      0.80       148\n           2       0.75      0.76      0.76       147\n           3       0.94      0.88      0.91       148\n           4       0.94      0.96      0.95       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.97      0.95      0.96       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.8710990502035278,
+      "train_macro_f1": 0.9966160241080241,
+      "valid_macro_f1": 0.8710639826122438,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.83       146\n           1       0.78      0.83      0.81       148\n           2       0.77      0.78      0.77       147\n           3       0.91      0.88      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.81      0.75      0.78       148\n           8       0.88      0.89      0.89       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.994401085850017,
+      "valid_accuracy": 0.8710990502035278,
+      "train_macro_f1": 0.9944158726944174,
+      "valid_macro_f1": 0.8710477839922721,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.83       146\n           1       0.77      0.83      0.80       148\n           2       0.77      0.77      0.77       147\n           3       0.92      0.87      0.90       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.87      0.90       149\n           7       0.82      0.76      0.79       148\n           8       0.88      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9977943671530369,
+      "valid_accuracy": 0.8710990502035278,
+      "train_macro_f1": 0.9978026407994619,
+      "valid_macro_f1": 0.8709318422021104,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.84      0.83       146\n           1       0.78      0.84      0.81       148\n           2       0.78      0.78      0.78       147\n           3       0.92      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.85      0.89       149\n           7       0.82      0.76      0.79       148\n           8       0.88      0.90      0.89       148\n           9       0.94      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.8704206241519674,
+      "train_macro_f1": 0.9966160241080241,
+      "valid_macro_f1": 0.8704730961501508,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.83       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.77      0.76       147\n           3       0.91      0.87      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.87      0.89       149\n           7       0.81      0.76      0.78       148\n           8       0.88      0.89      0.89       148\n           9       0.96      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.993892093654564,
+      "valid_accuracy": 0.8704206241519674,
+      "train_macro_f1": 0.9939154375341813,
+      "valid_macro_f1": 0.8704694503582235,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.79      0.84      0.81       148\n           2       0.77      0.78      0.78       147\n           3       0.88      0.88      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.94      0.88      0.91       149\n           7       0.82      0.74      0.78       148\n           8       0.90      0.90      0.90       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8704206241519674,
+      "train_macro_f1": 0.9972948591154042,
+      "valid_macro_f1": 0.8702409457113097,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.84      0.83       146\n           1       0.79      0.84      0.82       148\n           2       0.77      0.79      0.78       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.85      0.89       149\n           7       0.81      0.75      0.78       148\n           8       0.88      0.90      0.89       148\n           9       0.94      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9879538513742789,
+      "valid_accuracy": 0.8697421981004071,
+      "train_macro_f1": 0.9879773304465062,
+      "valid_macro_f1": 0.8697435960636207,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.79      0.84      0.81       148\n           2       0.75      0.77      0.76       147\n           3       0.90      0.88      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.89      0.91       149\n           7       0.83      0.74      0.78       148\n           8       0.90      0.90      0.90       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9823549372242959,
+      "valid_accuracy": 0.8697421981004071,
+      "train_macro_f1": 0.9823888085053337,
+      "valid_macro_f1": 0.8696971672739109,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.81      0.80       146\n           1       0.77      0.83      0.80       148\n           2       0.75      0.76      0.75       147\n           3       0.93      0.88      0.90       148\n           4       0.94      0.96      0.95       150\n           5       0.92      0.99      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.97      0.94      0.96       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9888021717000339,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.9888281548657835,
+      "valid_macro_f1": 0.8691806888706592,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.81       146\n           1       0.77      0.82      0.80       148\n           2       0.75      0.78      0.76       147\n           3       0.92      0.88      0.90       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.82      0.74      0.78       148\n           8       0.90      0.90      0.90       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.988632507634883,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.988659357303221,
+      "valid_macro_f1": 0.869170017953431,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.83      0.81       146\n           1       0.78      0.82      0.80       148\n           2       0.75      0.78      0.76       147\n           3       0.93      0.87      0.90       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.97      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9879538513742789,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.9879773304465062,
+      "valid_macro_f1": 0.8691056135366082,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.81      0.78       146\n           1       0.79      0.84      0.81       148\n           2       0.76      0.78      0.77       147\n           3       0.90      0.88      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.94      0.89      0.91       149\n           7       0.83      0.74      0.78       148\n           8       0.90      0.90      0.90       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.994061757719715,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.9940860964454508,
+      "valid_macro_f1": 0.8690824417048809,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.78      0.84      0.81       148\n           2       0.77      0.77      0.77       147\n           3       0.88      0.87      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.94      0.88      0.91       149\n           7       0.82      0.75      0.78       148\n           8       0.89      0.90      0.90       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.996097726501527,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.9961183609300092,
+      "valid_macro_f1": 0.8690647163540707,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.80      0.84      0.82       148\n           2       0.77      0.79      0.78       147\n           3       0.89      0.86      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.88      0.91       149\n           7       0.83      0.75      0.79       148\n           8       0.90      0.89      0.89       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9977943671530369,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.9978026407994619,
+      "valid_macro_f1": 0.8689475523388405,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.84      0.83       146\n           1       0.77      0.84      0.80       148\n           2       0.77      0.78      0.78       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.85      0.89       149\n           7       0.82      0.75      0.78       148\n           8       0.88      0.90      0.89       148\n           9       0.95      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.9972948591154042,
+      "valid_macro_f1": 0.8689284035294864,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.84      0.83       146\n           1       0.78      0.84      0.81       148\n           2       0.77      0.79      0.78       147\n           3       0.91      0.87      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.85      0.89       149\n           7       0.81      0.74      0.77       148\n           8       0.87      0.89      0.88       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8690637720488467,
+      "train_macro_f1": 0.9981468251065854,
+      "valid_macro_f1": 0.8689037341847774,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.77      0.84      0.80       148\n           2       0.77      0.78      0.77       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.87      0.89       149\n           7       0.83      0.76      0.79       148\n           8       0.90      0.90      0.90       148\n           9       0.93      0.93      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9876145232439769,
+      "valid_accuracy": 0.8683853459972863,
+      "train_macro_f1": 0.987634142612413,
+      "valid_macro_f1": 0.8685177447274836,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.77      0.84      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.94      0.88      0.91       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.87      0.90       149\n           7       0.81      0.75      0.78       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.994061757719715,
+      "valid_accuracy": 0.8683853459972863,
+      "train_macro_f1": 0.9940850770963628,
+      "valid_macro_f1": 0.8684432428853983,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.77      0.77       147\n           3       0.88      0.87      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.94      0.88      0.91       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.90      0.90       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.996097726501527,
+      "valid_accuracy": 0.8683853459972863,
+      "train_macro_f1": 0.9961183609300092,
+      "valid_macro_f1": 0.8684418370172022,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.79      0.84      0.82       148\n           2       0.77      0.79      0.78       147\n           3       0.88      0.86      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.94      0.88      0.91       149\n           7       0.82      0.75      0.78       148\n           8       0.90      0.89      0.89       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.996097726501527,
+      "valid_accuracy": 0.8683853459972863,
+      "train_macro_f1": 0.9961183609300092,
+      "valid_macro_f1": 0.8684222109374152,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.83      0.80       146\n           1       0.80      0.84      0.82       148\n           2       0.77      0.79      0.78       147\n           3       0.89      0.85      0.87       148\n           4       0.92      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.94      0.88      0.91       149\n           7       0.83      0.74      0.78       148\n           8       0.89      0.89      0.89       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.987784187309128,
+      "valid_accuracy": 0.8683853459972863,
+      "train_macro_f1": 0.987808116591044,
+      "valid_macro_f1": 0.868410736866109,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.79      0.83      0.81       148\n           2       0.75      0.77      0.76       147\n           3       0.89      0.88      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.88      0.91       149\n           7       0.83      0.74      0.78       148\n           8       0.90      0.90      0.90       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8683853459972863,
+      "train_macro_f1": 0.9981468251065854,
+      "valid_macro_f1": 0.8683614206914901,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.84      0.83       146\n           1       0.77      0.84      0.80       148\n           2       0.77      0.78      0.77       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.91      0.85      0.88       149\n           7       0.82      0.76      0.79       148\n           8       0.87      0.89      0.88       148\n           9       0.94      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997115710892433,
+      "valid_accuracy": 0.8683853459972863,
+      "train_macro_f1": 0.9971253711374748,
+      "valid_macro_f1": 0.868132563681489,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.79      0.85      0.82       148\n           2       0.76      0.77      0.76       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.85      0.89       149\n           7       0.82      0.75      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.94      0.92      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9872751951136749,
+      "valid_accuracy": 0.8677069199457259,
+      "train_macro_f1": 0.9872965467256151,
+      "valid_macro_f1": 0.8677650954628995,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.81       146\n           1       0.77      0.84      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.93      0.87      0.90       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.87      0.90       149\n           7       0.80      0.74      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.993892093654564,
+      "valid_accuracy": 0.8677069199457259,
+      "train_macro_f1": 0.9939088178205291,
+      "valid_macro_f1": 0.8677410417573638,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.82      0.81       146\n           1       0.78      0.85      0.81       148\n           2       0.76      0.76      0.76       147\n           3       0.93      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.93      0.87      0.90       149\n           7       0.81      0.76      0.78       148\n           8       0.88      0.89      0.89       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9820156090939939,
+      "valid_accuracy": 0.8677069199457259,
+      "train_macro_f1": 0.9820469305358017,
+      "valid_macro_f1": 0.8676931095114775,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.81      0.80       146\n           1       0.77      0.83      0.80       148\n           2       0.75      0.76      0.76       147\n           3       0.92      0.88      0.90       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.996097726501527,
+      "valid_accuracy": 0.8677069199457259,
+      "train_macro_f1": 0.9961065338147543,
+      "valid_macro_f1": 0.8676588452584177,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.82       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.76      0.76       147\n           3       0.92      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.86      0.89       149\n           7       0.80      0.75      0.78       148\n           8       0.87      0.89      0.88       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.995928062436376,
+      "valid_accuracy": 0.8677069199457259,
+      "train_macro_f1": 0.9959361665984015,
+      "valid_macro_f1": 0.8675802161687729,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.82       146\n           1       0.78      0.84      0.81       148\n           2       0.75      0.76      0.75       147\n           3       0.91      0.87      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.86      0.89       149\n           7       0.81      0.74      0.77       148\n           8       0.86      0.91      0.88       148\n           9       0.96      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997115710892433,
+      "valid_accuracy": 0.8670284938941656,
+      "train_macro_f1": 0.9971311076504279,
+      "valid_macro_f1": 0.8671870325440378,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.83      0.80       146\n           1       0.78      0.84      0.81       148\n           2       0.77      0.79      0.78       147\n           3       0.89      0.86      0.87       148\n           4       0.92      0.94      0.93       150\n           5       0.95      0.99      0.97       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.74      0.78       148\n           8       0.90      0.89      0.89       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9872751951136749,
+      "valid_accuracy": 0.8670284938941656,
+      "train_macro_f1": 0.9872965467256151,
+      "valid_macro_f1": 0.8670220644335975,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.80       146\n           1       0.77      0.84      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.93      0.87      0.90       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.87      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.88      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9798099762470309,
+      "valid_accuracy": 0.8670284938941656,
+      "train_macro_f1": 0.9798487490166456,
+      "valid_macro_f1": 0.86687154189402,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.80      0.79       146\n           1       0.77      0.84      0.80       148\n           2       0.75      0.76      0.76       147\n           3       0.93      0.86      0.90       148\n           4       0.93      0.96      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.93      0.87      0.90       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9799796403121819,
+      "valid_accuracy": 0.8670284938941656,
+      "train_macro_f1": 0.9800168090691942,
+      "valid_macro_f1": 0.8668683968591591,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.80      0.79       146\n           1       0.77      0.84      0.80       148\n           2       0.75      0.76      0.76       147\n           3       0.93      0.86      0.90       148\n           4       0.93      0.96      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.996776382762131,
+      "valid_accuracy": 0.8663500678426052,
+      "train_macro_f1": 0.9967955241728589,
+      "valid_macro_f1": 0.8664548201579908,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.83      0.80       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.78      0.77       147\n           3       0.89      0.86      0.87       148\n           4       0.91      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.93      0.88      0.90       149\n           7       0.83      0.74      0.78       148\n           8       0.90      0.89      0.89       148\n           9       0.97      0.91      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8663500678426052,
+      "train_macro_f1": 0.9981468251065854,
+      "valid_macro_f1": 0.8663210618487287,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.83       146\n           1       0.76      0.84      0.80       148\n           2       0.77      0.78      0.77       147\n           3       0.92      0.85      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.85      0.89       149\n           7       0.82      0.76      0.79       148\n           8       0.88      0.89      0.89       148\n           9       0.94      0.92      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8663500678426052,
+      "train_macro_f1": 0.9981468251065854,
+      "valid_macro_f1": 0.8662221843101747,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.77      0.85      0.81       148\n           2       0.75      0.78      0.77       147\n           3       0.91      0.85      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.86      0.89       149\n           7       0.83      0.75      0.79       148\n           8       0.88      0.89      0.89       148\n           9       0.93      0.92      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.993552765524262,
+      "valid_accuracy": 0.8663500678426052,
+      "train_macro_f1": 0.9935773268849815,
+      "valid_macro_f1": 0.8661803568681219,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.78      0.85      0.81       148\n           2       0.77      0.76      0.77       147\n           3       0.89      0.87      0.88       148\n           4       0.92      0.95      0.93       150\n           5       0.94      0.99      0.96       149\n           6       0.93      0.88      0.90       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.91      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9928741092636579,
+      "valid_accuracy": 0.8663500678426052,
+      "train_macro_f1": 0.9928970971623959,
+      "valid_macro_f1": 0.8661400405839024,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.81      0.80       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.77      0.77       147\n           3       0.89      0.86      0.88       148\n           4       0.92      0.95      0.93       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8663500678426052,
+      "train_macro_f1": 0.9979770443545979,
+      "valid_macro_f1": 0.8661348273629705,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.77      0.85      0.81       148\n           2       0.75      0.78      0.77       147\n           3       0.90      0.85      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.85      0.89       149\n           7       0.83      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.93      0.92      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.996097726501527,
+      "valid_accuracy": 0.8663500678426052,
+      "train_macro_f1": 0.996105080017713,
+      "valid_macro_f1": 0.8661292266857783,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.84      0.82       146\n           1       0.78      0.84      0.81       148\n           2       0.75      0.76      0.75       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.93      0.86      0.89       149\n           7       0.81      0.74      0.77       148\n           8       0.87      0.91      0.89       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9979788972173965,
+      "valid_macro_f1": 0.8659036663411384,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.78      0.85      0.82       148\n           2       0.75      0.78      0.77       147\n           3       0.88      0.86      0.87       148\n           4       0.92      0.94      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.90      0.89      0.89       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.996776382762131,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9967955241728589,
+      "valid_macro_f1": 0.8658375809296477,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.83      0.80       146\n           1       0.79      0.84      0.81       148\n           2       0.76      0.78      0.77       147\n           3       0.89      0.86      0.87       148\n           4       0.91      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.94      0.88      0.91       149\n           7       0.81      0.74      0.78       148\n           8       0.90      0.89      0.89       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.993892093654564,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9939088178205291,
+      "valid_macro_f1": 0.865709629686149,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.81       146\n           1       0.78      0.84      0.81       148\n           2       0.75      0.76      0.75       147\n           3       0.93      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.93      0.87      0.90       149\n           7       0.80      0.75      0.78       148\n           8       0.87      0.89      0.88       148\n           9       0.96      0.93      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9818459450288429,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9818730993970763,
+      "valid_macro_f1": 0.8657046961705797,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.81      0.78       146\n           1       0.77      0.82      0.80       148\n           2       0.75      0.76      0.75       147\n           3       0.91      0.86      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.89      0.91       149\n           7       0.83      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.97      0.94      0.95       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9798099762470309,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9798487490166456,
+      "valid_macro_f1": 0.8656876121240714,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.77      0.84      0.80       148\n           2       0.75      0.76      0.75       147\n           3       0.94      0.87      0.91       148\n           4       0.93      0.96      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.93      0.87      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.89      0.90      0.90       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9957583983712249,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9957759931723711,
+      "valid_macro_f1": 0.8656699719195291,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.79      0.83      0.81       148\n           2       0.76      0.78      0.77       147\n           3       0.89      0.85      0.87       148\n           4       0.91      0.95      0.93       150\n           5       0.94      0.99      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.75      0.78       148\n           8       0.90      0.89      0.89       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997624703087886,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9976327150640355,
+      "valid_macro_f1": 0.8655460370804947,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.82      0.83      0.82       146\n           1       0.77      0.84      0.81       148\n           2       0.75      0.77      0.76       147\n           3       0.91      0.85      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.86      0.89       149\n           7       0.82      0.75      0.78       148\n           8       0.88      0.89      0.89       148\n           9       0.94      0.93      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9969554416117141,
+      "valid_macro_f1": 0.8652928008220246,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.76      0.76       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.93      0.86      0.89       149\n           7       0.81      0.74      0.77       148\n           8       0.88      0.91      0.89       148\n           9       0.94      0.93      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8656716417910447,
+      "train_macro_f1": 0.9969554416117141,
+      "valid_macro_f1": 0.8652215753190013,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.76      0.76       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.93      0.86      0.89       149\n           7       0.81      0.73      0.77       148\n           8       0.87      0.91      0.89       148\n           9       0.94      0.93      0.93       141\n\n    accuracy                           0.87      1474\n   macro avg       0.87      0.87      0.87      1474\nweighted avg       0.87      0.87      0.87      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9820156090939939,
+      "valid_accuracy": 0.8649932157394844,
+      "train_macro_f1": 0.9820486964377244,
+      "valid_macro_f1": 0.8649917556175655,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.81      0.78       146\n           1       0.77      0.82      0.80       148\n           2       0.75      0.76      0.75       147\n           3       0.90      0.86      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.89      0.91       149\n           7       0.82      0.74      0.78       148\n           8       0.89      0.91      0.90       148\n           9       0.97      0.94      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.87      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.993892093654564,
+      "valid_accuracy": 0.8649932157394844,
+      "train_macro_f1": 0.9939088178205291,
+      "valid_macro_f1": 0.8649827281097359,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.81       146\n           1       0.78      0.84      0.81       148\n           2       0.75      0.76      0.75       147\n           3       0.93      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.93      0.87      0.90       149\n           7       0.80      0.75      0.78       148\n           8       0.87      0.89      0.88       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.87      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8649932157394844,
+      "train_macro_f1": 0.9979770443545979,
+      "valid_macro_f1": 0.8649326087577249,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.77      0.84      0.80       148\n           2       0.74      0.78      0.76       147\n           3       0.90      0.84      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.99      0.96       149\n           6       0.93      0.85      0.89       149\n           7       0.83      0.74      0.79       148\n           8       0.89      0.91      0.90       148\n           9       0.93      0.92      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.87      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.996437054631829,
+      "valid_accuracy": 0.8649932157394844,
+      "train_macro_f1": 0.9964561066691686,
+      "valid_macro_f1": 0.8648725515069724,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.84      0.81       146\n           1       0.79      0.84      0.82       148\n           2       0.77      0.78      0.77       147\n           3       0.88      0.84      0.86       148\n           4       0.91      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.82      0.75      0.78       148\n           8       0.90      0.88      0.89       148\n           9       0.95      0.91      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.87      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9977943671530369,
+      "valid_accuracy": 0.864314789687924,
+      "train_macro_f1": 0.997809116465409,
+      "valid_macro_f1": 0.864508535570504,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.83      0.81       146\n           1       0.78      0.84      0.81       148\n           2       0.74      0.77      0.76       147\n           3       0.89      0.86      0.87       148\n           4       0.91      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.92      0.87      0.89       149\n           7       0.82      0.74      0.78       148\n           8       0.90      0.89      0.89       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.87      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997455039022735,
+      "valid_accuracy": 0.864314789687924,
+      "train_macro_f1": 0.997462787004593,
+      "valid_macro_f1": 0.8641208027959744,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.78      0.84      0.81       148\n           2       0.74      0.76      0.75       147\n           3       0.91      0.86      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.85      0.89       149\n           7       0.81      0.74      0.78       148\n           8       0.89      0.90      0.90       148\n           9       0.93      0.93      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.87      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9977943671530369,
+      "valid_accuracy": 0.8636363636363636,
+      "train_macro_f1": 0.997809116465409,
+      "valid_macro_f1": 0.8638893633707758,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.81       146\n           1       0.77      0.84      0.81       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.85      0.87       148\n           4       0.92      0.94      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.91      0.87      0.89       149\n           7       0.81      0.76      0.78       148\n           8       0.91      0.89      0.90       148\n           9       0.97      0.92      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8636363636363636,
+      "train_macro_f1": 0.998137842518988,
+      "valid_macro_f1": 0.8638869174667019,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.83      0.81       146\n           1       0.78      0.84      0.81       148\n           2       0.75      0.77      0.76       147\n           3       0.87      0.84      0.86       148\n           4       0.91      0.94      0.92       150\n           5       0.95      0.98      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.75      0.77       148\n           8       0.91      0.89      0.90       148\n           9       0.97      0.91      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9820156090939939,
+      "valid_accuracy": 0.8636363636363636,
+      "train_macro_f1": 0.9820520900204048,
+      "valid_macro_f1": 0.8636369714918949,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.75      0.81      0.78       146\n           1       0.78      0.82      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.90      0.86      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.94      0.89      0.91       149\n           7       0.81      0.73      0.77       148\n           8       0.89      0.90      0.90       148\n           9       0.97      0.93      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.87      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.8629579375848032,
+      "train_macro_f1": 0.9966163538845961,
+      "valid_macro_f1": 0.8630436689318117,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.78      0.84      0.81       148\n           2       0.77      0.78      0.77       147\n           3       0.88      0.84      0.86       148\n           4       0.92      0.95      0.93       150\n           5       0.92      0.97      0.95       149\n           6       0.92      0.87      0.90       149\n           7       0.81      0.75      0.78       148\n           8       0.92      0.89      0.90       148\n           9       0.95      0.93      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8629579375848032,
+      "train_macro_f1": 0.9979680617670006,
+      "valid_macro_f1": 0.8630389996296058,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.77      0.84      0.81       148\n           2       0.77      0.76      0.76       147\n           3       0.88      0.85      0.86       148\n           4       0.90      0.94      0.92       150\n           5       0.94      0.98      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.75      0.78       148\n           8       0.92      0.89      0.90       148\n           9       0.96      0.91      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.993043773328809,
+      "valid_accuracy": 0.8629579375848032,
+      "train_macro_f1": 0.9930688766632523,
+      "valid_macro_f1": 0.862823344378102,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.81      0.79       146\n           1       0.77      0.83      0.80       148\n           2       0.77      0.77      0.77       147\n           3       0.87      0.85      0.86       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.98      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.90      0.89      0.89       148\n           9       0.95      0.94      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9869358669833729,
+      "valid_accuracy": 0.8629579375848032,
+      "train_macro_f1": 0.9869595592669353,
+      "valid_macro_f1": 0.8627851774217037,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.78      0.84      0.81       148\n           2       0.75      0.76      0.75       147\n           3       0.89      0.85      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.92      0.89      0.90       149\n           7       0.81      0.73      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.93      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997455039022735,
+      "valid_accuracy": 0.8629579375848032,
+      "train_macro_f1": 0.997462787004593,
+      "valid_macro_f1": 0.8627298064793181,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.77      0.84      0.80       148\n           2       0.74      0.76      0.75       147\n           3       0.91      0.85      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.99      0.96       149\n           6       0.91      0.85      0.88       149\n           7       0.81      0.74      0.77       148\n           8       0.89      0.90      0.90       148\n           9       0.93      0.93      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.8622795115332429,
+      "train_macro_f1": 0.9966163538845961,
+      "valid_macro_f1": 0.8624595818826872,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.83      0.80       146\n           1       0.80      0.82      0.81       148\n           2       0.76      0.78      0.77       147\n           3       0.87      0.84      0.86       148\n           4       0.90      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.93      0.87      0.90       149\n           7       0.80      0.75      0.77       148\n           8       0.91      0.87      0.89       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9957583983712249,
+      "valid_accuracy": 0.8622795115332429,
+      "train_macro_f1": 0.9957759931723711,
+      "valid_macro_f1": 0.8623709844278415,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.78      0.83      0.81       148\n           2       0.76      0.78      0.77       147\n           3       0.88      0.84      0.86       148\n           4       0.92      0.95      0.93       150\n           5       0.92      0.97      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.75      0.78       148\n           8       0.91      0.88      0.89       148\n           9       0.96      0.93      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.995928062436376,
+      "valid_accuracy": 0.8622795115332429,
+      "train_macro_f1": 0.9959478480975171,
+      "valid_macro_f1": 0.8622372591178408,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.80       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.77      0.77       147\n           3       0.88      0.85      0.86       148\n           4       0.91      0.95      0.93       150\n           5       0.94      0.99      0.96       149\n           6       0.93      0.88      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.90      0.87      0.88       148\n           9       0.96      0.91      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9916864608076009,
+      "valid_accuracy": 0.8622795115332429,
+      "train_macro_f1": 0.9917039035466786,
+      "valid_macro_f1": 0.8620360250906502,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.80       146\n           1       0.77      0.82      0.80       148\n           2       0.77      0.76      0.76       147\n           3       0.89      0.86      0.88       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.98      0.95       149\n           6       0.92      0.87      0.90       149\n           7       0.81      0.74      0.77       148\n           8       0.88      0.89      0.89       148\n           9       0.95      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.991856124872752,
+      "valid_accuracy": 0.8616010854816825,
+      "train_macro_f1": 0.9918745276234701,
+      "valid_macro_f1": 0.8614343891258409,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.82      0.81       146\n           1       0.76      0.82      0.79       148\n           2       0.76      0.76      0.76       147\n           3       0.90      0.87      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.98      0.95       149\n           6       0.92      0.87      0.89       149\n           7       0.81      0.74      0.77       148\n           8       0.87      0.89      0.88       148\n           9       0.94      0.92      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9872751951136749,
+      "valid_accuracy": 0.8616010854816825,
+      "train_macro_f1": 0.9872954923702784,
+      "valid_macro_f1": 0.861404689537693,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.80      0.78       146\n           1       0.78      0.84      0.81       148\n           2       0.75      0.76      0.76       147\n           3       0.90      0.86      0.88       148\n           4       0.92      0.95      0.94       150\n           5       0.92      0.99      0.95       149\n           6       0.93      0.89      0.91       149\n           7       0.82      0.72      0.77       148\n           8       0.88      0.89      0.89       148\n           9       0.96      0.91      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8609226594301221,
+      "train_macro_f1": 0.998137842518988,
+      "valid_macro_f1": 0.8610882816179541,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.83      0.80       146\n           1       0.77      0.83      0.80       148\n           2       0.75      0.75      0.75       147\n           3       0.87      0.84      0.86       148\n           4       0.91      0.94      0.92       150\n           5       0.94      0.98      0.96       149\n           6       0.91      0.87      0.89       149\n           7       0.80      0.75      0.77       148\n           8       0.92      0.90      0.91       148\n           9       0.96      0.91      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 15000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8609226594301221,
+      "train_macro_f1": 0.998137842518988,
+      "valid_macro_f1": 0.8610856330093934,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.83      0.80       146\n           1       0.78      0.83      0.80       148\n           2       0.74      0.76      0.75       147\n           3       0.89      0.84      0.87       148\n           4       0.90      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.92      0.87      0.89       149\n           7       0.80      0.74      0.77       148\n           8       0.92      0.89      0.91       148\n           9       0.96      0.91      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.995079742110621,
+      "valid_accuracy": 0.8609226594301221,
+      "train_macro_f1": 0.9950920573628841,
+      "valid_macro_f1": 0.8607951828618743,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.77      0.82      0.80       148\n           2       0.77      0.76      0.77       147\n           3       0.88      0.86      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.94      0.98      0.96       149\n           6       0.92      0.87      0.89       149\n           7       0.79      0.75      0.77       148\n           8       0.87      0.89      0.88       148\n           9       0.94      0.91      0.92       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.995249406175772,
+      "valid_accuracy": 0.8609226594301221,
+      "train_macro_f1": 0.9952609889260866,
+      "valid_macro_f1": 0.8607434230185145,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.82      0.81       146\n           1       0.77      0.82      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.86      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.98      0.95       149\n           6       0.92      0.87      0.89       149\n           7       0.80      0.74      0.77       148\n           8       0.88      0.89      0.89       148\n           9       0.94      0.91      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9869358669833729,
+      "valid_accuracy": 0.8609226594301221,
+      "train_macro_f1": 0.9869558466476939,
+      "valid_macro_f1": 0.8606120325763396,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.79      0.78       146\n           1       0.78      0.84      0.81       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.86      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.98      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.72      0.76       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9949100780454699,
+      "valid_accuracy": 0.8609226594301221,
+      "train_macro_f1": 0.9949216801910199,
+      "valid_macro_f1": 0.8606108584139127,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.82      0.81       146\n           1       0.77      0.82      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.86      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.98      0.95       149\n           6       0.92      0.87      0.89       149\n           7       0.80      0.74      0.77       148\n           8       0.87      0.89      0.88       148\n           9       0.94      0.92      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8595658073270014,
+      "train_macro_f1": 0.998137842518988,
+      "valid_macro_f1": 0.8597255647848439,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.77      0.82      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.87      0.84      0.86       148\n           4       0.90      0.94      0.92       150\n           5       0.94      0.98      0.96       149\n           6       0.92      0.88      0.90       149\n           7       0.78      0.74      0.76       148\n           8       0.92      0.89      0.90       148\n           9       0.96      0.91      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.99151679674245,
+      "valid_accuracy": 0.8595658073270014,
+      "train_macro_f1": 0.9915358427324353,
+      "valid_macro_f1": 0.8593790246133086,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.82      0.81       146\n           1       0.77      0.82      0.79       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.86      0.87       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.98      0.95       149\n           6       0.92      0.87      0.90       149\n           7       0.80      0.73      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.996776382762131,
+      "valid_accuracy": 0.8595658073270014,
+      "train_macro_f1": 0.9967907071174841,
+      "valid_macro_f1": 0.859196594811247,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.84      0.82       146\n           1       0.78      0.83      0.81       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.85      0.87       148\n           4       0.92      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.91      0.87      0.89       149\n           7       0.79      0.73      0.76       148\n           8       0.89      0.89      0.89       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.858887381275441,
+      "train_macro_f1": 0.9979680617670006,
+      "valid_macro_f1": 0.8589412491289841,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.78      0.82      0.80       148\n           2       0.75      0.76      0.76       147\n           3       0.87      0.83      0.85       148\n           4       0.92      0.94      0.93       150\n           5       0.93      0.97      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.75      0.77       148\n           8       0.92      0.89      0.90       148\n           9       0.94      0.93      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9843909060061079,
+      "valid_accuracy": 0.858887381275441,
+      "train_macro_f1": 0.9844154370556784,
+      "valid_macro_f1": 0.8586922311866838,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.77      0.82      0.79       148\n           2       0.76      0.77      0.76       147\n           3       0.91      0.86      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.92      0.98      0.95       149\n           6       0.92      0.87      0.90       149\n           7       0.80      0.72      0.76       148\n           8       0.86      0.89      0.88       148\n           9       0.95      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8582089552238806,
+      "train_macro_f1": 0.9979680617670006,
+      "valid_macro_f1": 0.8584375536696742,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.82      0.79       146\n           1       0.78      0.82      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.84      0.86       148\n           4       0.90      0.94      0.92       150\n           5       0.94      0.98      0.96       149\n           6       0.93      0.88      0.90       149\n           7       0.78      0.74      0.76       148\n           8       0.92      0.87      0.90       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9838819138106549,
+      "valid_accuracy": 0.8582089552238806,
+      "train_macro_f1": 0.9839100922604633,
+      "valid_macro_f1": 0.8579922274677874,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.79      0.78       146\n           1       0.77      0.82      0.79       148\n           2       0.75      0.77      0.76       147\n           3       0.92      0.86      0.89       148\n           4       0.92      0.95      0.93       150\n           5       0.91      0.98      0.94       149\n           6       0.92      0.87      0.90       149\n           7       0.81      0.72      0.76       148\n           8       0.86      0.89      0.88       148\n           9       0.95      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8582089552238806,
+      "train_macro_f1": 0.9969601936290952,
+      "valid_macro_f1": 0.857855534924781,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.83      0.82       146\n           1       0.78      0.83      0.80       148\n           2       0.76      0.76      0.76       147\n           3       0.89      0.84      0.87       148\n           4       0.92      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.91      0.87      0.89       149\n           7       0.79      0.73      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9799796403121819,
+      "valid_accuracy": 0.8575305291723202,
+      "train_macro_f1": 0.9800036294828249,
+      "valid_macro_f1": 0.8571772929737971,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.77      0.82      0.80       148\n           2       0.74      0.76      0.74       147\n           3       0.89      0.83      0.86       148\n           4       0.92      0.95      0.94       150\n           5       0.91      0.98      0.94       149\n           6       0.92      0.89      0.90       149\n           7       0.81      0.71      0.76       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9799796403121819,
+      "valid_accuracy": 0.8568521031207599,
+      "train_macro_f1": 0.9800065665544058,
+      "valid_macro_f1": 0.8565595223331964,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.77      0.82      0.79       148\n           2       0.74      0.75      0.74       147\n           3       0.89      0.84      0.86       148\n           4       0.93      0.95      0.94       150\n           5       0.91      0.97      0.94       149\n           6       0.92      0.89      0.90       149\n           7       0.81      0.72      0.76       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.94      0.95       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8561736770691994,
+      "train_macro_f1": 0.998137842518988,
+      "valid_macro_f1": 0.8562879953112661,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.77      0.82      0.79       148\n           2       0.75      0.76      0.75       147\n           3       0.87      0.84      0.85       148\n           4       0.91      0.94      0.92       150\n           5       0.92      0.97      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.73      0.76       148\n           8       0.92      0.89      0.90       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.998133695283339,
+      "valid_accuracy": 0.8561736770691994,
+      "train_macro_f1": 0.998137842518988,
+      "valid_macro_f1": 0.8562668729506484,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.82      0.79       146\n           1       0.78      0.82      0.80       148\n           2       0.75      0.75      0.75       147\n           3       0.88      0.84      0.86       148\n           4       0.89      0.94      0.92       150\n           5       0.93      0.98      0.95       149\n           6       0.92      0.87      0.90       149\n           7       0.78      0.74      0.76       148\n           8       0.91      0.87      0.89       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9840515778758059,
+      "valid_accuracy": 0.8561736770691994,
+      "train_macro_f1": 0.9840775861921867,
+      "valid_macro_f1": 0.8559573641075104,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.76      0.81      0.79       148\n           2       0.75      0.77      0.76       147\n           3       0.92      0.86      0.89       148\n           4       0.93      0.94      0.93       150\n           5       0.92      0.98      0.95       149\n           6       0.92      0.87      0.89       149\n           7       0.80      0.71      0.75       148\n           8       0.85      0.89      0.87       148\n           9       0.95      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8561736770691994,
+      "train_macro_f1": 0.9969601936290952,
+      "valid_macro_f1": 0.8558235198818783,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.83      0.81       146\n           1       0.77      0.82      0.79       148\n           2       0.75      0.75      0.75       147\n           3       0.89      0.84      0.86       148\n           4       0.92      0.95      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.91      0.87      0.89       149\n           7       0.78      0.72      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.92      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 12000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9801493043773328,
+      "valid_accuracy": 0.8554952510176391,
+      "train_macro_f1": 0.9801713796838509,
+      "valid_macro_f1": 0.8554163329612814,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.75      0.80      0.77       146\n           1       0.76      0.82      0.79       148\n           2       0.73      0.75      0.74       147\n           3       0.90      0.84      0.87       148\n           4       0.92      0.95      0.93       150\n           5       0.91      0.98      0.94       149\n           6       0.94      0.89      0.91       149\n           7       0.82      0.72      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.96      0.92      0.94       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9764166949440108,
+      "valid_accuracy": 0.8548168249660787,
+      "train_macro_f1": 0.9764645192144996,
+      "valid_macro_f1": 0.854505612860177,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.79      0.78       146\n           1       0.75      0.81      0.78       148\n           2       0.76      0.76      0.76       147\n           3       0.92      0.86      0.89       148\n           4       0.92      0.94      0.93       150\n           5       0.88      0.97      0.92       149\n           6       0.92      0.87      0.90       149\n           7       0.82      0.72      0.77       148\n           8       0.86      0.89      0.88       148\n           9       0.95      0.94      0.94       141\n\n    accuracy                           0.85      1474\n   macro avg       0.86      0.85      0.85      1474\nweighted avg       0.86      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9764166949440108,
+      "valid_accuracy": 0.8541383989145184,
+      "train_macro_f1": 0.9764605935260796,
+      "valid_macro_f1": 0.8539040664133264,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.76      0.82      0.79       148\n           2       0.76      0.76      0.76       147\n           3       0.92      0.85      0.88       148\n           4       0.92      0.94      0.93       150\n           5       0.89      0.97      0.93       149\n           6       0.92      0.87      0.90       149\n           7       0.81      0.72      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.95      0.92      0.94       141\n\n    accuracy                           0.85      1474\n   macro avg       0.86      0.85      0.85      1474\nweighted avg       0.86      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.995419070240923,
+      "valid_accuracy": 0.8541383989145184,
+      "train_macro_f1": 0.9954334626676046,
+      "valid_macro_f1": 0.853817106901122,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.80       146\n           1       0.77      0.82      0.79       148\n           2       0.76      0.74      0.75       147\n           3       0.88      0.82      0.85       148\n           4       0.92      0.93      0.92       150\n           5       0.91      0.98      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.79      0.75      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.995419070240923,
+      "valid_accuracy": 0.8534599728629579,
+      "train_macro_f1": 0.9954334626676046,
+      "valid_macro_f1": 0.8531648772535456,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.76      0.81      0.78       148\n           2       0.76      0.74      0.75       147\n           3       0.88      0.82      0.85       148\n           4       0.92      0.93      0.92       150\n           5       0.90      0.97      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.81      0.76      0.78       148\n           8       0.89      0.89      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9764166949440108,
+      "valid_accuracy": 0.8534599728629579,
+      "train_macro_f1": 0.976465909834201,
+      "valid_macro_f1": 0.8530736813658469,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.79      0.78       146\n           1       0.75      0.81      0.78       148\n           2       0.75      0.76      0.75       147\n           3       0.92      0.86      0.89       148\n           4       0.92      0.94      0.93       150\n           5       0.88      0.97      0.93       149\n           6       0.92      0.87      0.89       149\n           7       0.81      0.71      0.76       148\n           8       0.86      0.89      0.88       148\n           9       0.95      0.94      0.94       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.99151679674245,
+      "valid_accuracy": 0.8534599728629579,
+      "train_macro_f1": 0.9915401541711718,
+      "valid_macro_f1": 0.8529192897430852,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.80      0.79       146\n           1       0.76      0.82      0.79       148\n           2       0.75      0.73      0.74       147\n           3       0.88      0.83      0.86       148\n           4       0.91      0.95      0.93       150\n           5       0.91      0.98      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.74      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.99151679674245,
+      "valid_accuracy": 0.8534599728629579,
+      "train_macro_f1": 0.9915408493730309,
+      "valid_macro_f1": 0.8529103916144903,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.80       146\n           1       0.77      0.82      0.79       148\n           2       0.75      0.73      0.74       147\n           3       0.89      0.83      0.86       148\n           4       0.90      0.95      0.93       150\n           5       0.91      0.98      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.74      0.76       148\n           8       0.89      0.89      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9833729216152018,
+      "valid_accuracy": 0.8534599728629579,
+      "train_macro_f1": 0.9834039737062822,
+      "valid_macro_f1": 0.8528442929136444,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.80      0.79       146\n           1       0.78      0.83      0.81       148\n           2       0.74      0.73      0.74       147\n           3       0.89      0.83      0.86       148\n           4       0.91      0.95      0.93       150\n           5       0.92      0.98      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.79      0.72      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8527815468113975,
+      "train_macro_f1": 0.9972976079043716,
+      "valid_macro_f1": 0.8524838057519311,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.81       146\n           1       0.77      0.83      0.80       148\n           2       0.75      0.75      0.75       147\n           3       0.88      0.84      0.86       148\n           4       0.92      0.94      0.93       150\n           5       0.93      0.98      0.95       149\n           6       0.91      0.87      0.89       149\n           7       0.77      0.72      0.74       148\n           8       0.89      0.87      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8521031207598372,
+      "train_macro_f1": 0.9972976079043716,
+      "valid_macro_f1": 0.8518923254345191,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.76      0.82      0.79       148\n           2       0.76      0.75      0.75       147\n           3       0.89      0.84      0.86       148\n           4       0.91      0.94      0.92       150\n           5       0.94      0.97      0.96       149\n           6       0.90      0.87      0.88       149\n           7       0.78      0.72      0.75       148\n           8       0.88      0.87      0.87       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8521031207598372,
+      "train_macro_f1": 0.9972976079043716,
+      "valid_macro_f1": 0.8518195614312676,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.82      0.81       146\n           1       0.76      0.82      0.79       148\n           2       0.76      0.76      0.76       147\n           3       0.88      0.84      0.86       148\n           4       0.92      0.94      0.93       150\n           5       0.94      0.98      0.96       149\n           6       0.91      0.87      0.89       149\n           7       0.77      0.71      0.74       148\n           8       0.88      0.87      0.87       148\n           9       0.92      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.996776382762131,
+      "valid_accuracy": 0.8514246947082768,
+      "train_macro_f1": 0.9967813095749376,
+      "valid_macro_f1": 0.8512935188192083,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.76      0.81      0.78       148\n           2       0.75      0.75      0.75       147\n           3       0.85      0.82      0.83       148\n           4       0.91      0.93      0.92       150\n           5       0.92      0.97      0.95       149\n           6       0.92      0.87      0.89       149\n           7       0.79      0.74      0.77       148\n           8       0.92      0.89      0.90       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.995419070240923,
+      "valid_accuracy": 0.8514246947082768,
+      "train_macro_f1": 0.9954334626676046,
+      "valid_macro_f1": 0.8512638538533727,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.76      0.80      0.78       148\n           2       0.75      0.74      0.75       147\n           3       0.87      0.82      0.84       148\n           4       0.91      0.93      0.92       150\n           5       0.91      0.97      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.79      0.75      0.77       148\n           8       0.89      0.89      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9916864608076009,
+      "valid_accuracy": 0.8514246947082768,
+      "train_macro_f1": 0.9917100814704345,
+      "valid_macro_f1": 0.8510247819547706,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.81      0.79       146\n           1       0.77      0.82      0.79       148\n           2       0.74      0.73      0.73       147\n           3       0.89      0.83      0.86       148\n           4       0.90      0.94      0.92       150\n           5       0.91      0.98      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.78      0.74      0.76       148\n           8       0.89      0.89      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.996776382762131,
+      "valid_accuracy": 0.8507462686567164,
+      "train_macro_f1": 0.9967813095749376,
+      "valid_macro_f1": 0.8506805136608669,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.75      0.80      0.78       148\n           2       0.75      0.74      0.75       147\n           3       0.87      0.82      0.84       148\n           4       0.90      0.93      0.92       150\n           5       0.92      0.97      0.94       149\n           6       0.91      0.87      0.89       149\n           7       0.80      0.76      0.78       148\n           8       0.92      0.89      0.90       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997455039022735,
+      "valid_accuracy": 0.8507462686567164,
+      "train_macro_f1": 0.997467539021974,
+      "valid_macro_f1": 0.8505386781409712,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.77      0.83      0.80       148\n           2       0.76      0.77      0.77       147\n           3       0.88      0.84      0.86       148\n           4       0.92      0.93      0.92       150\n           5       0.94      0.97      0.95       149\n           6       0.91      0.86      0.88       149\n           7       0.75      0.70      0.73       148\n           8       0.87      0.87      0.87       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.8507462686567164,
+      "train_macro_f1": 0.9966220112671182,
+      "valid_macro_f1": 0.8505004374101757,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.81      0.79       146\n           1       0.75      0.81      0.78       148\n           2       0.76      0.74      0.75       147\n           3       0.88      0.82      0.85       148\n           4       0.90      0.93      0.92       150\n           5       0.91      0.97      0.94       149\n           6       0.91      0.88      0.89       149\n           7       0.80      0.75      0.77       148\n           8       0.90      0.89      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9832032575500509,
+      "valid_accuracy": 0.8507462686567164,
+      "train_macro_f1": 0.9832302455592663,
+      "valid_macro_f1": 0.8501771699189483,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.80      0.78       146\n           1       0.78      0.82      0.80       148\n           2       0.74      0.73      0.74       147\n           3       0.89      0.82      0.86       148\n           4       0.91      0.95      0.93       150\n           5       0.91      0.98      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.79      0.72      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9835425856803529,
+      "valid_accuracy": 0.8507462686567164,
+      "train_macro_f1": 0.9835721691947013,
+      "valid_macro_f1": 0.8501117797420417,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.79      0.78       146\n           1       0.78      0.82      0.80       148\n           2       0.73      0.73      0.73       147\n           3       0.88      0.82      0.85       148\n           4       0.91      0.95      0.93       150\n           5       0.92      0.98      0.95       149\n           6       0.92      0.88      0.90       149\n           7       0.80      0.72      0.76       148\n           8       0.86      0.89      0.87       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997455039022735,
+      "valid_accuracy": 0.850067842605156,
+      "train_macro_f1": 0.997467539021974,
+      "valid_macro_f1": 0.8497803359194547,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.77      0.82      0.79       148\n           2       0.75      0.76      0.76       147\n           3       0.88      0.84      0.86       148\n           4       0.92      0.94      0.93       150\n           5       0.94      0.97      0.96       149\n           6       0.91      0.86      0.88       149\n           7       0.76      0.70      0.73       148\n           8       0.88      0.87      0.87       148\n           9       0.92      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9764166949440108,
+      "valid_accuracy": 0.850067842605156,
+      "train_macro_f1": 0.976450752317463,
+      "valid_macro_f1": 0.8496767011316534,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.79      0.78       146\n           1       0.76      0.81      0.78       148\n           2       0.74      0.75      0.75       147\n           3       0.90      0.83      0.86       148\n           4       0.92      0.95      0.93       150\n           5       0.91      0.97      0.94       149\n           6       0.93      0.87      0.90       149\n           7       0.79      0.72      0.75       148\n           8       0.86      0.89      0.87       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997624703087886,
+      "valid_accuracy": 0.8493894165535957,
+      "train_macro_f1": 0.9976374670814165,
+      "valid_macro_f1": 0.8491800106230892,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.82      0.80       146\n           1       0.76      0.82      0.79       148\n           2       0.76      0.77      0.76       147\n           3       0.88      0.84      0.86       148\n           4       0.92      0.94      0.93       150\n           5       0.94      0.97      0.96       149\n           6       0.90      0.85      0.88       149\n           7       0.76      0.70      0.73       148\n           8       0.88      0.86      0.87       148\n           9       0.92      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8480325644504749,
+      "train_macro_f1": 0.9972899272306102,
+      "valid_macro_f1": 0.847963047092084,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.81      0.79       146\n           1       0.76      0.80      0.78       148\n           2       0.74      0.75      0.74       147\n           3       0.85      0.82      0.84       148\n           4       0.91      0.93      0.92       150\n           5       0.93      0.97      0.95       149\n           6       0.90      0.88      0.89       149\n           7       0.79      0.74      0.76       148\n           8       0.91      0.87      0.89       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9762470308788599,
+      "valid_accuracy": 0.8480325644504749,
+      "train_macro_f1": 0.9762803946692502,
+      "valid_macro_f1": 0.8477436980116281,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.79      0.77       146\n           1       0.76      0.80      0.78       148\n           2       0.73      0.74      0.74       147\n           3       0.90      0.83      0.86       148\n           4       0.92      0.95      0.94       150\n           5       0.91      0.97      0.94       149\n           6       0.92      0.87      0.90       149\n           7       0.79      0.72      0.75       148\n           8       0.86      0.89      0.87       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9760773668137088,
+      "valid_accuracy": 0.8480325644504749,
+      "train_macro_f1": 0.9761095266790818,
+      "valid_macro_f1": 0.847629934913274,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.78      0.77       146\n           1       0.75      0.81      0.78       148\n           2       0.74      0.75      0.75       147\n           3       0.89      0.82      0.86       148\n           4       0.92      0.95      0.94       150\n           5       0.91      0.97      0.94       149\n           6       0.92      0.88      0.90       149\n           7       0.79      0.72      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9876145232439769,
+      "valid_accuracy": 0.8473541383989145,
+      "train_macro_f1": 0.9876323552172505,
+      "valid_macro_f1": 0.8470856672539501,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.81      0.81       146\n           1       0.77      0.82      0.79       148\n           2       0.75      0.72      0.73       147\n           3       0.92      0.82      0.86       148\n           4       0.89      0.93      0.91       150\n           5       0.90      0.95      0.93       149\n           6       0.90      0.88      0.89       149\n           7       0.76      0.76      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8466757123473542,
+      "train_macro_f1": 0.9972899272306102,
+      "valid_macro_f1": 0.8468360499550874,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.81      0.78       146\n           1       0.74      0.80      0.77       148\n           2       0.74      0.74      0.74       147\n           3       0.87      0.82      0.84       148\n           4       0.91      0.93      0.92       150\n           5       0.92      0.97      0.94       149\n           6       0.91      0.87      0.89       149\n           7       0.80      0.74      0.77       148\n           8       0.92      0.88      0.90       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9876145232439769,
+      "valid_accuracy": 0.8466757123473542,
+      "train_macro_f1": 0.9876315089318396,
+      "valid_macro_f1": 0.8464750975290661,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.81      0.81      0.81       146\n           1       0.76      0.81      0.78       148\n           2       0.74      0.73      0.73       147\n           3       0.92      0.82      0.86       148\n           4       0.89      0.93      0.91       150\n           5       0.90      0.95      0.93       149\n           6       0.90      0.88      0.89       149\n           7       0.77      0.75      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8453188602442334,
+      "train_macro_f1": 0.9979680617670006,
+      "valid_macro_f1": 0.845546110391707,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.80      0.78       146\n           1       0.76      0.80      0.78       148\n           2       0.73      0.75      0.74       147\n           3       0.86      0.82      0.84       148\n           4       0.91      0.93      0.92       150\n           5       0.93      0.96      0.94       149\n           6       0.89      0.88      0.89       149\n           7       0.78      0.74      0.76       148\n           8       0.91      0.87      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8453188602442334,
+      "train_macro_f1": 0.9979680617670006,
+      "valid_macro_f1": 0.8454423980438219,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.81      0.78       146\n           1       0.76      0.80      0.78       148\n           2       0.75      0.76      0.75       147\n           3       0.86      0.81      0.84       148\n           4       0.90      0.92      0.91       150\n           5       0.92      0.97      0.94       149\n           6       0.90      0.87      0.89       149\n           7       0.78      0.74      0.76       148\n           8       0.91      0.86      0.89       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.85      1474\nweighted avg       0.85      0.85      0.85      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9876145232439769,
+      "valid_accuracy": 0.8453188602442334,
+      "train_macro_f1": 0.987629218880197,
+      "valid_macro_f1": 0.8449912657216092,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.80      0.80       146\n           1       0.76      0.81      0.79       148\n           2       0.74      0.72      0.73       147\n           3       0.92      0.82      0.86       148\n           4       0.89      0.93      0.91       150\n           5       0.90      0.95      0.93       149\n           6       0.89      0.88      0.89       149\n           7       0.77      0.75      0.76       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.85      1474\n   macro avg       0.85      0.85      0.84      1474\nweighted avg       0.85      0.85      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.844640434192673,
+      "train_macro_f1": 0.9972899272306102,
+      "valid_macro_f1": 0.8446612657560667,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.79      0.78       146\n           1       0.75      0.80      0.77       148\n           2       0.74      0.74      0.74       147\n           3       0.85      0.82      0.83       148\n           4       0.89      0.93      0.91       150\n           5       0.92      0.97      0.94       149\n           6       0.91      0.88      0.89       149\n           7       0.79      0.74      0.76       148\n           8       0.91      0.86      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.85      0.84      0.84      1474\nweighted avg       0.85      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 8000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997964031218188,
+      "valid_accuracy": 0.8419267299864315,
+      "train_macro_f1": 0.9979680617670006,
+      "valid_macro_f1": 0.8420565523462991,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.79      0.78       146\n           1       0.75      0.80      0.77       148\n           2       0.74      0.74      0.74       147\n           3       0.85      0.81      0.83       148\n           4       0.89      0.93      0.91       150\n           5       0.92      0.96      0.94       149\n           6       0.90      0.88      0.89       149\n           7       0.77      0.74      0.76       148\n           8       0.91      0.86      0.89       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9774346793349169,
+      "valid_accuracy": 0.8419267299864315,
+      "train_macro_f1": 0.9774523219982632,
+      "valid_macro_f1": 0.8417874252496975,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.79      0.80       146\n           1       0.75      0.79      0.77       148\n           2       0.74      0.73      0.74       147\n           3       0.91      0.80      0.85       148\n           4       0.89      0.93      0.91       150\n           5       0.91      0.95      0.93       149\n           6       0.90      0.88      0.89       149\n           7       0.75      0.74      0.74       148\n           8       0.86      0.89      0.88       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9682728198167628,
+      "valid_accuracy": 0.8419267299864315,
+      "train_macro_f1": 0.968276736763268,
+      "valid_macro_f1": 0.8417600739974083,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.79      0.79       146\n           1       0.75      0.79      0.77       148\n           2       0.74      0.73      0.74       147\n           3       0.90      0.80      0.85       148\n           4       0.90      0.93      0.92       150\n           5       0.90      0.95      0.93       149\n           6       0.92      0.87      0.90       149\n           7       0.75      0.72      0.74       148\n           8       0.86      0.90      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9682728198167628,
+      "valid_accuracy": 0.841248303934871,
+      "train_macro_f1": 0.9682826269803524,
+      "valid_macro_f1": 0.8410904574150949,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.79      0.79       146\n           1       0.75      0.79      0.77       148\n           2       0.74      0.73      0.74       147\n           3       0.90      0.80      0.85       148\n           4       0.89      0.93      0.91       150\n           5       0.90      0.95      0.93       149\n           6       0.92      0.87      0.90       149\n           7       0.75      0.72      0.74       148\n           8       0.86      0.89      0.87       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9684424838819138,
+      "valid_accuracy": 0.841248303934871,
+      "train_macro_f1": 0.9684536081271166,
+      "valid_macro_f1": 0.8410625252690098,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.80      0.80       146\n           1       0.75      0.79      0.77       148\n           2       0.73      0.73      0.73       147\n           3       0.89      0.80      0.85       148\n           4       0.90      0.93      0.92       150\n           5       0.90      0.95      0.93       149\n           6       0.92      0.87      0.90       149\n           7       0.75      0.72      0.73       148\n           8       0.86      0.89      0.87       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9777740074652189,
+      "valid_accuracy": 0.841248303934871,
+      "train_macro_f1": 0.9777942970710605,
+      "valid_macro_f1": 0.8409861289521601,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.79      0.79       146\n           1       0.75      0.79      0.77       148\n           2       0.74      0.73      0.74       147\n           3       0.89      0.80      0.84       148\n           4       0.89      0.93      0.91       150\n           5       0.91      0.95      0.93       149\n           6       0.90      0.88      0.89       149\n           7       0.76      0.73      0.74       148\n           8       0.86      0.89      0.88       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9925347811333559,
+      "valid_accuracy": 0.841248303934871,
+      "train_macro_f1": 0.9925472911363034,
+      "valid_macro_f1": 0.8408664650274625,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.79      0.79       146\n           1       0.75      0.81      0.78       148\n           2       0.75      0.72      0.74       147\n           3       0.91      0.81      0.86       148\n           4       0.88      0.92      0.90       150\n           5       0.92      0.95      0.93       149\n           6       0.88      0.87      0.87       149\n           7       0.76      0.74      0.75       148\n           8       0.86      0.89      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9684424838819138,
+      "valid_accuracy": 0.8405698778833107,
+      "train_macro_f1": 0.9684737761790068,
+      "valid_macro_f1": 0.8403112925650449,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.78      0.77       146\n           1       0.75      0.80      0.78       148\n           2       0.75      0.73      0.74       147\n           3       0.88      0.80      0.84       148\n           4       0.89      0.93      0.91       150\n           5       0.89      0.95      0.92       149\n           6       0.92      0.87      0.90       149\n           7       0.77      0.73      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9925347811333559,
+      "valid_accuracy": 0.8405698778833107,
+      "train_macro_f1": 0.9925472911363034,
+      "valid_macro_f1": 0.8401015477396878,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.78      0.78       146\n           1       0.76      0.81      0.79       148\n           2       0.76      0.73      0.74       147\n           3       0.91      0.81      0.86       148\n           4       0.88      0.92      0.90       150\n           5       0.91      0.95      0.93       149\n           6       0.87      0.87      0.87       149\n           7       0.76      0.74      0.75       148\n           8       0.86      0.89      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.987444859178826,
+      "valid_accuracy": 0.8405698778833107,
+      "train_macro_f1": 0.9874711264945665,
+      "valid_macro_f1": 0.8400357417012632,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.75      0.81      0.78       148\n           2       0.77      0.73      0.75       147\n           3       0.86      0.80      0.83       148\n           4       0.89      0.91      0.90       150\n           5       0.91      0.95      0.93       149\n           6       0.89      0.89      0.89       149\n           7       0.77      0.74      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9682728198167628,
+      "valid_accuracy": 0.8398914518317503,
+      "train_macro_f1": 0.9682979511979024,
+      "valid_macro_f1": 0.839621551111373,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.78      0.77       146\n           1       0.75      0.80      0.78       148\n           2       0.74      0.73      0.74       147\n           3       0.88      0.80      0.84       148\n           4       0.89      0.93      0.91       150\n           5       0.89      0.95      0.92       149\n           6       0.92      0.87      0.90       149\n           7       0.77      0.72      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9777740074652189,
+      "valid_accuracy": 0.8398914518317503,
+      "train_macro_f1": 0.9777942970710605,
+      "valid_macro_f1": 0.8396092845570223,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.79      0.79       146\n           1       0.75      0.79      0.77       148\n           2       0.74      0.73      0.74       147\n           3       0.89      0.80      0.85       148\n           4       0.89      0.93      0.91       150\n           5       0.91      0.95      0.93       149\n           6       0.90      0.88      0.89       149\n           7       0.75      0.72      0.74       148\n           8       0.86      0.89      0.87       148\n           9       0.92      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.2,
+      "max_iter": 8000,
+      "train_accuracy": 0.9681031557516118,
+      "valid_accuracy": 0.8398914518317503,
+      "train_macro_f1": 0.968129720408038,
+      "valid_macro_f1": 0.8396062902295289,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.78      0.77       146\n           1       0.75      0.80      0.78       148\n           2       0.75      0.73      0.74       147\n           3       0.88      0.80      0.84       148\n           4       0.88      0.93      0.90       150\n           5       0.89      0.95      0.92       149\n           6       0.92      0.87      0.90       149\n           7       0.77      0.73      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.93      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.993043773328809,
+      "valid_accuracy": 0.8398914518317503,
+      "train_macro_f1": 0.9930526505139741,
+      "valid_macro_f1": 0.8394505539441962,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.79      0.79       146\n           1       0.76      0.81      0.79       148\n           2       0.75      0.73      0.74       147\n           3       0.91      0.81      0.86       148\n           4       0.88      0.92      0.90       150\n           5       0.90      0.95      0.93       149\n           6       0.87      0.87      0.87       149\n           7       0.76      0.74      0.75       148\n           8       0.86      0.88      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.987444859178826,
+      "valid_accuracy": 0.8398914518317503,
+      "train_macro_f1": 0.9874760026793536,
+      "valid_macro_f1": 0.8393629060120311,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.75      0.81      0.78       148\n           2       0.77      0.73      0.75       147\n           3       0.87      0.80      0.83       148\n           4       0.88      0.91      0.90       150\n           5       0.91      0.95      0.93       149\n           6       0.89      0.89      0.89       149\n           7       0.77      0.74      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9872751951136749,
+      "valid_accuracy": 0.8398914518317503,
+      "train_macro_f1": 0.9873047885168835,
+      "valid_macro_f1": 0.8393525667292463,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.75      0.81      0.78       148\n           2       0.77      0.73      0.75       147\n           3       0.86      0.80      0.83       148\n           4       0.89      0.91      0.90       150\n           5       0.91      0.95      0.93       149\n           6       0.89      0.89      0.89       149\n           7       0.77      0.74      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9767560230743129,
+      "valid_accuracy": 0.8398914518317503,
+      "train_macro_f1": 0.9767674571244551,
+      "valid_macro_f1": 0.8393179133762729,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.79      0.78       146\n           1       0.76      0.82      0.79       148\n           2       0.76      0.73      0.74       147\n           3       0.88      0.79      0.83       148\n           4       0.88      0.92      0.90       150\n           5       0.89      0.95      0.92       149\n           6       0.90      0.87      0.88       149\n           7       0.78      0.73      0.75       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.90      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9764166949440108,
+      "valid_accuracy": 0.8378561736770692,
+      "train_macro_f1": 0.9764309909647677,
+      "valid_macro_f1": 0.8373216461623004,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.79      0.77       146\n           1       0.76      0.81      0.78       148\n           2       0.75      0.73      0.74       147\n           3       0.88      0.79      0.83       148\n           4       0.89      0.92      0.90       150\n           5       0.89      0.95      0.92       149\n           6       0.90      0.87      0.88       149\n           7       0.78      0.72      0.75       148\n           8       0.86      0.89      0.88       148\n           9       0.91      0.90      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.3,
+      "max_iter": 8000,
+      "train_accuracy": 0.9765863590091619,
+      "valid_accuracy": 0.8378561736770692,
+      "train_macro_f1": 0.9765992308081859,
+      "valid_macro_f1": 0.8372816876725411,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.79      0.77       146\n           1       0.76      0.81      0.78       148\n           2       0.75      0.73      0.74       147\n           3       0.87      0.79      0.83       148\n           4       0.89      0.92      0.90       150\n           5       0.89      0.95      0.92       149\n           6       0.90      0.87      0.88       149\n           7       0.78      0.72      0.75       148\n           8       0.86      0.89      0.88       148\n           9       0.91      0.90      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9928741092636579,
+      "valid_accuracy": 0.835820895522388,
+      "train_macro_f1": 0.9928889633215819,
+      "valid_macro_f1": 0.8354967632581436,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.77      0.77      0.77       146\n           1       0.75      0.82      0.78       148\n           2       0.75      0.72      0.73       147\n           3       0.86      0.80      0.83       148\n           4       0.87      0.91      0.89       150\n           5       0.92      0.94      0.93       149\n           6       0.89      0.88      0.89       149\n           7       0.77      0.73      0.75       148\n           8       0.87      0.87      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.84      1474\nweighted avg       0.84      0.84      0.84      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.995419070240923,
+      "valid_accuracy": 0.8351424694708277,
+      "train_macro_f1": 0.9954312569558208,
+      "valid_macro_f1": 0.8349453927941102,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.78      0.78       146\n           1       0.74      0.80      0.77       148\n           2       0.74      0.72      0.73       147\n           3       0.88      0.80      0.84       148\n           4       0.87      0.91      0.89       150\n           5       0.92      0.95      0.93       149\n           6       0.88      0.87      0.87       149\n           7       0.76      0.73      0.74       148\n           8       0.86      0.88      0.87       148\n           9       0.92      0.91      0.92       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.83      1474\nweighted avg       0.84      0.84      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.995419070240923,
+      "valid_accuracy": 0.8351424694708277,
+      "train_macro_f1": 0.9954312569558208,
+      "valid_macro_f1": 0.8348416579487121,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.79      0.78      0.79       146\n           1       0.74      0.80      0.77       148\n           2       0.74      0.73      0.74       147\n           3       0.88      0.80      0.84       148\n           4       0.88      0.91      0.90       150\n           5       0.92      0.95      0.93       149\n           6       0.88      0.87      0.87       149\n           7       0.76      0.72      0.74       148\n           8       0.85      0.88      0.86       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.83      1474\nweighted avg       0.84      0.84      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9925347811333559,
+      "valid_accuracy": 0.8351424694708277,
+      "train_macro_f1": 0.9925493701247513,
+      "valid_macro_f1": 0.8347533219701134,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.75      0.82      0.78       148\n           2       0.75      0.72      0.73       147\n           3       0.86      0.80      0.83       148\n           4       0.87      0.91      0.89       150\n           5       0.92      0.94      0.93       149\n           6       0.89      0.88      0.88       149\n           7       0.77      0.73      0.75       148\n           8       0.87      0.87      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.83      1474\nweighted avg       0.84      0.84      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.995928062436376,
+      "valid_accuracy": 0.8351424694708277,
+      "train_macro_f1": 0.9959400243710652,
+      "valid_macro_f1": 0.8346802364085424,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.74      0.82      0.78       148\n           2       0.75      0.73      0.74       147\n           3       0.88      0.78      0.83       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.94      0.92       149\n           6       0.89      0.88      0.88       149\n           7       0.76      0.72      0.74       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.84      1474\n   macro avg       0.84      0.84      0.83      1474\nweighted avg       0.84      0.84      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 0.7,
+      "max_iter": 8000,
+      "train_accuracy": 0.9925347811333559,
+      "valid_accuracy": 0.8344640434192673,
+      "train_macro_f1": 0.9925493701247513,
+      "valid_macro_f1": 0.8340652334602272,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.75      0.81      0.78       148\n           2       0.75      0.72      0.73       147\n           3       0.86      0.80      0.83       148\n           4       0.87      0.91      0.89       150\n           5       0.92      0.94      0.93       149\n           6       0.89      0.88      0.88       149\n           7       0.77      0.73      0.75       148\n           8       0.87      0.87      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.995928062436376,
+      "valid_accuracy": 0.8344640434192673,
+      "train_macro_f1": 0.9959400243710652,
+      "valid_macro_f1": 0.8339635202012656,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.74      0.82      0.78       148\n           2       0.75      0.73      0.74       147\n           3       0.87      0.78      0.83       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.94      0.92       149\n           6       0.89      0.88      0.88       149\n           7       0.76      0.72      0.74       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.995928062436376,
+      "valid_accuracy": 0.833785617367707,
+      "train_macro_f1": 0.9959400243710652,
+      "valid_macro_f1": 0.8332520152754155,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.74      0.81      0.77       148\n           2       0.75      0.73      0.74       147\n           3       0.88      0.78      0.83       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.94      0.92       149\n           6       0.87      0.88      0.88       149\n           7       0.76      0.72      0.74       148\n           8       0.87      0.89      0.88       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 1.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.995419070240923,
+      "valid_accuracy": 0.8331071913161465,
+      "train_macro_f1": 0.9954312569558208,
+      "valid_macro_f1": 0.8328234989358503,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.74      0.80      0.77       148\n           2       0.74      0.72      0.73       147\n           3       0.88      0.80      0.84       148\n           4       0.87      0.91      0.89       150\n           5       0.92      0.95      0.93       149\n           6       0.88      0.87      0.87       149\n           7       0.75      0.72      0.74       148\n           8       0.85      0.88      0.86       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8297150610583447,
+      "train_macro_f1": 0.9969590221973705,
+      "valid_macro_f1": 0.8294583916184187,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.78      0.78       146\n           1       0.73      0.80      0.77       148\n           2       0.75      0.73      0.74       147\n           3       0.87      0.76      0.81       148\n           4       0.87      0.90      0.89       150\n           5       0.90      0.93      0.91       149\n           6       0.89      0.88      0.88       149\n           7       0.75      0.72      0.73       148\n           8       0.88      0.87      0.87       148\n           9       0.90      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8297150610583447,
+      "train_macro_f1": 0.9969590221973705,
+      "valid_macro_f1": 0.8294066978586112,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.73      0.80      0.76       148\n           2       0.74      0.73      0.74       147\n           3       0.87      0.77      0.82       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.93      0.92       149\n           6       0.89      0.88      0.88       149\n           7       0.74      0.71      0.73       148\n           8       0.88      0.87      0.88       148\n           9       0.90      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8283582089552238,
+      "train_macro_f1": 0.9969590221973705,
+      "valid_macro_f1": 0.828029937131016,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.73      0.80      0.77       148\n           2       0.73      0.73      0.73       147\n           3       0.87      0.76      0.81       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.93      0.92       149\n           6       0.89      0.88      0.88       149\n           7       0.73      0.70      0.72       148\n           8       0.88      0.87      0.88       148\n           9       0.90      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.8263229308005428,
+      "train_macro_f1": 0.9966197252398544,
+      "valid_macro_f1": 0.8261133620280962,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.73      0.79      0.76       148\n           2       0.72      0.71      0.72       147\n           3       0.86      0.78      0.82       148\n           4       0.87      0.91      0.89       150\n           5       0.91      0.94      0.92       149\n           6       0.89      0.86      0.87       149\n           7       0.74      0.72      0.73       148\n           8       0.85      0.87      0.86       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8256445047489823,
+      "train_macro_f1": 0.9972996111327852,
+      "valid_macro_f1": 0.8256370848765974,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.76      0.76       146\n           1       0.72      0.80      0.76       148\n           2       0.74      0.74      0.74       147\n           3       0.88      0.76      0.81       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.92      0.91       149\n           6       0.88      0.87      0.88       149\n           7       0.73      0.71      0.72       148\n           8       0.88      0.87      0.88       148\n           9       0.90      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.8256445047489823,
+      "train_macro_f1": 0.9966197252398544,
+      "valid_macro_f1": 0.8255556782765814,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.73      0.80      0.76       148\n           2       0.71      0.71      0.71       147\n           3       0.86      0.78      0.82       148\n           4       0.88      0.91      0.89       150\n           5       0.91      0.93      0.92       149\n           6       0.88      0.87      0.87       149\n           7       0.74      0.71      0.72       148\n           8       0.86      0.87      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.83      1474\n   macro avg       0.83      0.83      0.83      1474\nweighted avg       0.83      0.83      0.83      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 1.5,
+      "max_iter": 8000,
+      "train_accuracy": 0.99660671869698,
+      "valid_accuracy": 0.824966078697422,
+      "train_macro_f1": 0.9966197252398544,
+      "valid_macro_f1": 0.8247883536249629,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.72      0.80      0.76       148\n           2       0.71      0.71      0.71       147\n           3       0.86      0.78      0.82       148\n           4       0.88      0.91      0.89       150\n           5       0.91      0.94      0.92       149\n           6       0.88      0.86      0.87       149\n           7       0.74      0.70      0.72       148\n           8       0.84      0.87      0.86       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.82      1474\n   macro avg       0.83      0.83      0.82      1474\nweighted avg       0.83      0.82      0.82      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8242876526458616,
+      "train_macro_f1": 0.9972996111327852,
+      "valid_macro_f1": 0.8241870003549915,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.76      0.76      0.76       146\n           1       0.72      0.81      0.76       148\n           2       0.73      0.73      0.73       147\n           3       0.87      0.76      0.81       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.92      0.91       149\n           6       0.89      0.87      0.88       149\n           7       0.74      0.70      0.72       148\n           8       0.88      0.87      0.88       148\n           9       0.90      0.91      0.91       141\n\n    accuracy                           0.82      1474\n   macro avg       0.83      0.82      0.82      1474\nweighted avg       0.83      0.82      0.82      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 2,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8236092265943012,
+      "train_macro_f1": 0.9969585687904738,
+      "valid_macro_f1": 0.8237370518670677,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.71      0.80      0.75       148\n           2       0.70      0.71      0.71       147\n           3       0.87      0.78      0.82       148\n           4       0.88      0.91      0.89       150\n           5       0.91      0.93      0.92       149\n           6       0.89      0.85      0.87       149\n           7       0.73      0.70      0.72       148\n           8       0.86      0.87      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.82      1474\n   macro avg       0.83      0.82      0.82      1474\nweighted avg       0.82      0.82      0.82      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 3,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8236092265943012,
+      "train_macro_f1": 0.9969585687904738,
+      "valid_macro_f1": 0.8237083459513362,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.78       146\n           1       0.71      0.79      0.75       148\n           2       0.70      0.71      0.71       147\n           3       0.87      0.78      0.82       148\n           4       0.88      0.91      0.90       150\n           5       0.91      0.93      0.92       149\n           6       0.89      0.86      0.87       149\n           7       0.73      0.70      0.72       148\n           8       0.87      0.87      0.87       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.82      1474\n   macro avg       0.82      0.82      0.82      1474\nweighted avg       0.82      0.82      0.82      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.997285374957584,
+      "valid_accuracy": 0.8236092265943012,
+      "train_macro_f1": 0.9972996111327852,
+      "valid_macro_f1": 0.8234089625436376,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.75      0.75      0.75       146\n           1       0.72      0.81      0.76       148\n           2       0.73      0.73      0.73       147\n           3       0.87      0.76      0.81       148\n           4       0.87      0.91      0.89       150\n           5       0.90      0.92      0.91       149\n           6       0.88      0.87      0.88       149\n           7       0.74      0.70      0.72       148\n           8       0.88      0.87      0.87       148\n           9       0.90      0.91      0.91       141\n\n    accuracy                           0.82      1474\n   macro avg       0.82      0.82      0.82      1474\nweighted avg       0.82      0.82      0.82      1474\n"
+    },
+    {
+      "ngram_range": [
+        1,
+        1
+      ],
+      "max_features": 5000,
+      "min_df": 1,
+      "C": 2.0,
+      "max_iter": 8000,
+      "train_accuracy": 0.9969460468272819,
+      "valid_accuracy": 0.8229308005427408,
+      "train_macro_f1": 0.9969585687904738,
+      "valid_macro_f1": 0.8229528390794119,
+      "classification_report": "              precision    recall  f1-score   support\n\n           0       0.78      0.77      0.77       146\n           1       0.71      0.80      0.75       148\n           2       0.70      0.71      0.71       147\n           3       0.87      0.78      0.82       148\n           4       0.88      0.91      0.89       150\n           5       0.91      0.93      0.92       149\n           6       0.89      0.85      0.87       149\n           7       0.74      0.70      0.72       148\n           8       0.85      0.87      0.86       148\n           9       0.91      0.91      0.91       141\n\n    accuracy                           0.82      1474\n   macro avg       0.82      0.82      0.82      1474\nweighted avg       0.82      0.82      0.82      1474\n"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ngram_range": [
+    1,
+    1
+  ],
+  "max_features": 8000,
+  "C": 0.5,
+  "train_accuracy": 0.991856124872752,
+  "valid_accuracy": 0.8616010854816825,
+  "train_macro_f1": 0.9918745276234701,
+  "valid_macro_f1": 0.8614343891258409,
+  "classification_report": "              precision    recall  f1-score   support\n\n           0       0.80      0.82      0.81       146\n           1       0.76      0.82      0.79       148\n           2       0.76      0.76      0.76       147\n           3       0.90      0.87      0.89       148\n           4       0.93      0.95      0.94       150\n           5       0.93      0.98      0.95       149\n           6       0.92      0.87      0.89       149\n           7       0.81      0.74      0.77       148\n           8       0.87      0.89      0.88       148\n           9       0.94      0.92      0.93       141\n\n    accuracy                           0.86      1474\n   macro avg       0.86      0.86      0.86      1474\nweighted avg       0.86      0.86      0.86      1474\n"
+}

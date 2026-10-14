@@ -1,0 +1,33 @@
+{
+  "experiment_name": "logistic_regression_quick_compare",
+  "dataset": "train_split_clean.csv / valid_split_clean.csv",
+  "feature_pipeline": {
+    "vectorizer": "TfidfVectorizer",
+    "max_features": 80000,
+    "min_df": 1,
+    "max_df": 0.95,
+    "sublinear_tf": true,
+    "lowercase": false,
+    "strip_accents": "unicode",
+    "ngram_range": [1, 1]
+  },
+  "model": {
+    "name": "LogisticRegression",
+    "solver": "lbfgs",
+    "C": 10.0,
+    "max_iter": 4000,
+    "random_state": 42
+  },
+  "scores": {
+    "valid_accuracy": 0.8819538670284939,
+    "valid_macro_f1": 0.8821374945718901
+  },
+  "comparison_to_best_linear_svc": {
+    "best_linear_svc_accuracy": 0.8921302578018996,
+    "best_linear_svc_macro_f1": 0.8922064172607055,
+    "difference_accuracy": -0.0101763907734057,
+    "difference_macro_f1": -0.0100689226880154,
+    "conclusion": "Logistic Regression is weaker than the current best LinearSVC model under the same validation setup."
+  },
+  "status": "preserved separately; original tuning results remain unchanged"
+}
