@@ -1,4 +1,5 @@
 # 实验一 新闻文本十分类
+10243330403 戴贝妮
 
 ## 1. 准备数据
 
@@ -92,7 +93,6 @@ python final_predict_linear_svc.py              # 生成提交文件
 ├── results/          ← 图表、指标 JSON
 ├── *.py              ← 13 个实验脚本
 ├── README.md
-└── requirements.txt
 ```
 
-运行时还会生成 `data/`，其中的划分结果与 TF-IDF 矩阵均由脚本重新生成，只有 `train_data.csv` 与 `test_data_unlabeled.csv` 需按第 1 节自行放入。`data/`、`archive/` 等目录不随仓库上传，已由 `.gitignore` 排除。
+运行时还会生成 `data/`，其中的划分结果与 TF-IDF 矩阵均由脚本重新生成，只有 `train_data.csv` 与 `test_data_unlabeled.csv` 需按第前文所述自行放入。
